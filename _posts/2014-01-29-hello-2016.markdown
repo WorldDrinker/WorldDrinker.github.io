@@ -24,4 +24,4 @@ tags:
 注一：[关于NACA翼型的东西请诸位看这里](http://en.wikipedia.org/wiki/NACA_airfoil)
  
 
-![](img/C6N/zhushi-1.jpg)
+![](/img/C6N/zhushi-1.jpg)
